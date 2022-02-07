@@ -9,6 +9,9 @@ SOBRE MIM:
 TECNOLOGIAS:
 - Java
 - JavaFx
+- Java Script
+- HTML
+- CSS
 - Spring Boot
 - JPA
 - Hibernate
