@@ -13,8 +13,7 @@ TECNOLOGIAS:
 - HTML
 - CSS
 - Spring Boot
-- JPA
-- Hibernate
+- JPA / Hibernate
 - MySQL
 - MongoDB
 - Dart
