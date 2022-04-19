@@ -15,7 +15,8 @@ LINGUAGENS
 - HTML
 - CSS
 
-FRAMEWORKS
+FRAMEWORKS / BIBLIOTECAS
+- ReactJs
 - Spring Boot
 - JPA / Hibernate
 - Flutter
