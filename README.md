@@ -10,12 +10,12 @@ SOBRE OLIVAR NEEMIAS:
 LINGUAGENS
 - Java
 - Dart
-- JavaFx
 - Java Script
 - HTML
 - CSS
 
 FRAMEWORKS / BIBLIOTECAS
+- JavaFx
 - ReactJs
 - Spring Boot
 - JPA / Hibernate
