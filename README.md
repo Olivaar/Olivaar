@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Me chamo Olivar Neemias, tenho 22 anos e ocupo a posição de Analista de Sistemas na +PET Planos Veterinários e tenho o orgulho de ser proprietário da minha própria empresa, a TWT Software. Durante os mais de 4 anos de carreira, tive a honra de receber o Prêmio IEL de Estágio em etapas estadual e nacional, na categoria Projetos Inovadores e conquistei o Segundo Lugar na First Lego League, na categoria Projeto de Inovação, graças ao desenvolvimento do aplicativo Super Kids. Embora ja atue com as ferramentas, Dart, Flutter, Firebase e Google Cloud estou focado em estudar essas tecnologias afim de chegar ao maior nível de expertise possível.
+Me chamo Olivar Neemias, tenho 22 anos e ocupo a posição de Desenvolvedor Flutter na 7Pay e sou proprietário empresa TWT Software. Durante minha carreira, tive a honra de receber o Prêmio IEL de Estágio em etapas estadual e nacional, na categoria Projetos Inovadores e conquistei o Segundo Lugar na First Lego League, na categoria Projeto de Inovação, graças ao desenvolvimento do aplicativo Super Kids. Embora ja atue com as ferramentas, Dart, Flutter, Firebase e Google Cloud estou focado em estudar essas tecnologias afim de chegar ao maior nível de expertise possível.
 
 ## Ferramentas e Tecnologias
 
